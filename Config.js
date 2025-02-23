@@ -1,8 +1,8 @@
 module.exports = {
-    name: 'GrowPlus',   // name of the server
+    name: 'GrowScythe',   // name of the server
 
     server_data: {
-        ip: "127.0.0.1",    // your enet host
+        ip: "142.93.222.5",    // your enet host
         port: "17091",  // your enet port
         meta: "localhost",
         loginurl: "137.0.0.1"   // login dashboard
